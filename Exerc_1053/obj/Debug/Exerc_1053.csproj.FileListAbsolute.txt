@@ -1,0 +1,2 @@
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1053\obj\Debug\Exerc_1053.csproj.AssemblyReference.cache
+C:\Users\MarcioRobertodaSilva\source\repos\Exerc_1053\obj\Debug\Exerc_1053.csproj.CoreCompileInputs.cache
