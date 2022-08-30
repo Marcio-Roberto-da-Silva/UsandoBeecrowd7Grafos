@@ -1,0 +1,7 @@
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd7Grafos\bin\Debug\UsandoBeecrod7Grafos.exe.config
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd7Grafos\bin\Debug\UsandoBeecrod7Grafos.exe
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd7Grafos\bin\Debug\UsandoBeecrod7Grafos.pdb
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd7Grafos\obj\Debug\UsandoBeecrowd7Grafos.csproj.AssemblyReference.cache
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd7Grafos\obj\Debug\UsandoBeecrowd7Grafos.csproj.CoreCompileInputs.cache
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd7Grafos\obj\Debug\UsandoBeecrod7Grafos.exe
+C:\Users\MarcioRobertodaSilva\source\repos\UsandoBeecrowd7Grafos\obj\Debug\UsandoBeecrod7Grafos.pdb
